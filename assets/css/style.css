@@ -173,6 +173,20 @@ hr{
     margin-top: 15px;
     margin-bottom: 57px;
 }
+@media (min-width: 740px) and (max-width: 1023px) {
+    #content .content-section{
+        flex-direction: column;
+        width: 90%;
+    }
+    #content .list-menu{
+        text-align: center;
+    }
+    .content-section .menu-img .menu-item{
+        width: 100%;
+        padding: 0;
+    }
+
+}
 
 #content .contact-section{
     padding: 64px 0;
