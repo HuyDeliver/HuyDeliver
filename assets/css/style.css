@@ -81,7 +81,7 @@ html {
 #slider{
     margin-top: 54.5px;
     padding-top: 50%;
-    background-image: url("/Restaurant/assets/image/hamburger.jpg");
+    background-image: url("/assets/image/hamburger.jpg");
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
