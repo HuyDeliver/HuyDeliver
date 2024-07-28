@@ -1,0 +1,34 @@
+@media (min-width: 740px) and (max-width: 1023px) {
+    
+    #content .content-section{
+        flex-direction: column;
+        width: 90%;
+    }
+    #content .list-menu{
+        text-align: center;
+    }
+    .content-section .menu-img .menu-item{
+        width: 100%;
+        padding: 0;
+    }
+
+}
+@media (max-width : 740px){
+    .s-flex{
+        flex-direction: column;
+        align-items: center;
+        height: 100%;;
+    }
+    .content-section .about-content{
+        padding: 0;
+    }
+    .s-size{
+        padding: 0;
+    }
+    #slider .res-name{
+        bottom: 5px;
+    }
+    .form-submit{
+        width: 100%;
+    }
+}
