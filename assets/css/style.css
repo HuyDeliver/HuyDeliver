@@ -36,7 +36,6 @@ html {
 #header{
     cursor: pointer;
     background-color: white;
-    height: 54.5px;
     padding: 8px 16px;
     position: fixed;
     left: 0;
@@ -154,7 +153,6 @@ hr{
 .content-section .menu-img .menu-item{
     min-width: 50%;
     max-width: 100%;
-    padding: 0 40px;
 }
 
 .menu-body .menu-heading{
